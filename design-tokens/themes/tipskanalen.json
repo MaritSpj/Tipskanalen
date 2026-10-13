@@ -1,0 +1,600 @@
+{
+  "color": {
+    "accent": {
+      "1": {
+        "$type": "color",
+        "$value": "{tipskanalen.accent.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{tipskanalen.accent.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{tipskanalen.accent.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{tipskanalen.accent.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{tipskanalen.accent.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{tipskanalen.accent.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{tipskanalen.accent.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{tipskanalen.accent.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{tipskanalen.accent.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{tipskanalen.accent.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{tipskanalen.accent.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{tipskanalen.accent.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{tipskanalen.accent.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{tipskanalen.accent.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{tipskanalen.accent.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{tipskanalen.accent.16}"
+      }
+    },
+    "brand1": {
+      "1": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand1.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand1.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand1.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand1.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand1.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand1.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand1.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand1.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand1.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand1.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand1.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand1.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand1.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand1.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand1.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand1.16}"
+      }
+    },
+    "brand2": {
+      "1": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand2.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand2.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand2.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand2.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand2.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand2.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand2.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand2.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand2.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand2.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand2.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand2.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand2.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand2.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand2.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{tipskanalen.brand2.16}"
+      }
+    },
+    "neutral": {
+      "1": {
+        "$type": "color",
+        "$value": "{tipskanalen.neutral.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{tipskanalen.neutral.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{tipskanalen.neutral.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{tipskanalen.neutral.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{tipskanalen.neutral.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{tipskanalen.neutral.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{tipskanalen.neutral.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{tipskanalen.neutral.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{tipskanalen.neutral.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{tipskanalen.neutral.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{tipskanalen.neutral.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{tipskanalen.neutral.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{tipskanalen.neutral.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{tipskanalen.neutral.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{tipskanalen.neutral.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{tipskanalen.neutral.16}"
+      }
+    },
+    "info": {
+      "1": {
+        "$type": "color",
+        "$value": "{tipskanalen.info.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{tipskanalen.info.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{tipskanalen.info.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{tipskanalen.info.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{tipskanalen.info.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{tipskanalen.info.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{tipskanalen.info.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{tipskanalen.info.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{tipskanalen.info.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{tipskanalen.info.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{tipskanalen.info.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{tipskanalen.info.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{tipskanalen.info.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{tipskanalen.info.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{tipskanalen.info.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{tipskanalen.info.16}"
+      }
+    },
+    "success": {
+      "1": {
+        "$type": "color",
+        "$value": "{tipskanalen.success.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{tipskanalen.success.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{tipskanalen.success.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{tipskanalen.success.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{tipskanalen.success.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{tipskanalen.success.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{tipskanalen.success.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{tipskanalen.success.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{tipskanalen.success.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{tipskanalen.success.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{tipskanalen.success.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{tipskanalen.success.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{tipskanalen.success.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{tipskanalen.success.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{tipskanalen.success.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{tipskanalen.success.16}"
+      }
+    },
+    "warning": {
+      "1": {
+        "$type": "color",
+        "$value": "{tipskanalen.warning.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{tipskanalen.warning.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{tipskanalen.warning.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{tipskanalen.warning.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{tipskanalen.warning.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{tipskanalen.warning.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{tipskanalen.warning.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{tipskanalen.warning.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{tipskanalen.warning.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{tipskanalen.warning.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{tipskanalen.warning.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{tipskanalen.warning.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{tipskanalen.warning.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{tipskanalen.warning.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{tipskanalen.warning.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{tipskanalen.warning.16}"
+      }
+    },
+    "danger": {
+      "1": {
+        "$type": "color",
+        "$value": "{tipskanalen.danger.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{tipskanalen.danger.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{tipskanalen.danger.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{tipskanalen.danger.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{tipskanalen.danger.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{tipskanalen.danger.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{tipskanalen.danger.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{tipskanalen.danger.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{tipskanalen.danger.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{tipskanalen.danger.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{tipskanalen.danger.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{tipskanalen.danger.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{tipskanalen.danger.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{tipskanalen.danger.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{tipskanalen.danger.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{tipskanalen.danger.16}"
+      }
+    },
+    "link": {
+      "visited": {
+        "$type": "color",
+        "$value": "{tipskanalen.link.visited}"
+      }
+    },
+    "focus": {
+      "inner-color": {
+        "$type": "color",
+        "$value": "{tipskanalen.focus.inner}"
+      },
+      "outer-color": {
+        "$type": "color",
+        "$value": "{tipskanalen.focus.outer}"
+      }
+    }
+  },
+  "font-family": {
+    "$type": "fontFamilies",
+    "$value": "{tipskanalen.font-family}"
+  },
+  "font-weight": {
+    "medium": {
+      "$type": "fontWeights",
+      "$value": "{tipskanalen.font-weight.medium}"
+    },
+    "semibold": {
+      "$type": "fontWeights",
+      "$value": "{tipskanalen.font-weight.semibold}"
+    },
+    "regular": {
+      "$type": "fontWeights",
+      "$value": "{tipskanalen.font-weight.regular}"
+    }
+  },
+  "border-radius": {
+    "1": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base}*0.5,{border-radius.scale})"
+    },
+    "2": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base},{border-radius.scale}*2)"
+    },
+    "3": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base}*2,{border-radius.scale}*5)"
+    },
+    "4": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base}*3,{border-radius.scale}*7)"
+    },
+    "5": {
+      "$type": "dimension",
+      "$value": "{border-radius.base}"
+    },
+    "6": {
+      "$type": "dimension",
+      "$value": "9999"
+    },
+    "base": {
+      "$type": "dimension",
+      "$value": "4"
+    },
+    "scale": {
+      "$type": "dimension",
+      "$value": "4"
+    }
+  }
+}

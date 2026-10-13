@@ -1,0 +1,15 @@
+{
+  "$schema": "https://designsystemet.no/schemas/config/1.23.0.json",
+  "outDir": "./design-tokens",
+  "themes": {
+    "tipskanalen": {
+      "colors": {
+        "accent": "#8dced0",
+        "brand1": "#051d2e",
+        "brand2": "#f7e9a2",
+        "neutral": "#24272B"
+      },
+      "borderRadius": 4
+    }
+  }
+}
